@@ -1,0 +1,105 @@
+/* fileName: addon.css #leftPan ul.one li.selected a*/
+#leftPan ul.one li.selected a
+{
+	background-color: #CC0000;
+	background-image: url('images/arrow2.gif');
+	color: #fff;
+}
+
+
+div.peoples-name-female
+{
+	background-color: #CC0000;
+	width:205px;
+	height:20px;
+	color: #fff;
+	font: 11px/22px Arial, Helvetica, sans-serif;
+	text-transform: uppercase;
+	text-decoration: none;
+	padding: 3px 0 3px 0px;
+	display: inline-block;
+	margin-bottom: 3px;
+	font-weight: bold;
+	text-indent: 16px;
+	border: 1px solid #CC0000;
+}
+
+div.peoples-name-female a /* anchor */
+{
+	color:white;
+}
+
+div.peoples-name, div.title-name, div.salary-name
+{
+	color: blue;
+	width:205px;
+	height:20px;
+	background-color: #fff;
+	font: 11px/22px Arial, Helvetica, sans-serif;
+	text-transform: uppercase;
+	text-decoration: none;
+	padding: 3px 0;
+	display: inline-block;
+	margin-bottom: 3px;
+	font-weight: bold;
+	text-indent: 16px;
+	border: 1px solid #CC0000
+}
+
+div.title-name {
+	width: 290px;
+	padding-right: 5px;
+}
+
+div.salary-name {
+	width: 330px;
+}
+
+#mainPan{
+	width: 875px;
+}
+
+#bodyPan{
+	width: 680px;
+
+}
+
+#bodylowerPan{
+	width: 680px;
+}
+
+.report {
+  text-decoration: none;
+  color: #40361B;
+ }
+  
+.column1{
+	width:10px;
+}
+
+
+.input-form{
+	width: 61px;
+	height: 20px;
+	background: url(images/button.gif) 0 0 no-repeat #E3DDCD;
+	color: #fff;
+	border: none;
+	font: 11px/20px Verdana, Arial, Helvetica, sans-serif;
+	font-weight: bold;
+	text-align: center;
+	text-transform: uppercase;
+	-margin: 10px 0 0 56px;
+
+}
+
+table caption{
+	font-size: 125%;
+	padding-bottom: 6px;
+}
+
+table.data-entry td{
+
+	border: #CC0000 dashed 1px;
+	
+}
+

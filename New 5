@@ -1,0 +1,7 @@
+
+/*display peopleId, lastname, firstname, gender */
+
+select *
+from projectAssignments pa 
+inner join people p 
+on pa.peopleId = p.peopleId; 
